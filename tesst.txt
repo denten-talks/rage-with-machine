@@ -1,0 +1,999 @@
+   71  git commit -am "clean up whitespace"
+   72  todo add email ted @Taos
+   73  todo pri 22 A
+   74  todo add email mkrisch@columbia.edu to check the budgets @taos @magic
+   75  todo pri 23 A
+   76  puid 
+   77  kill 3770
+   78  kill -f 3770
+   79  man kill
+   80  kill -9 skype
+   81  kill -9 3770
+   82  todo do 2
+   83  todo do 3
+   84  todo do 21
+   85  todo do 18
+   86  todo do 19
+   87  todo do
+   88  todo add finish proposals
+   89  todo pri 18 A
+   90  todo do 02
+   91  todo del 09
+   92  todo del 08
+   93  cd gDrive/Code/Web/denten.github.io
+   94  git commit -am "updated talks and projects"
+   95  git commit -am "merging"
+   96  todo add update CV
+   97  todo add upload CV to sharon 
+   98  todo pri 17 A
+   99  todo do 01
+  100  pandoc --version
+  101  pidof latex
+  102  vim CV.log
+  103  sh ./Makefile
+  104  rm 04-projects.md.orig
+  105  firefox CV.html
+  106  latex --version
+  107  sudo aptitude install tex-gyre 
+  108  vim NOTES
+  109  ls Imprints
+  110  cp 01-header.md 01-header.md.orig
+  111  vim CV.pdf
+  112  vim 01
+  113  vim 04-projects.md
+  114  mv CV.pdf Imprints/denten-CV-2014-03-21.pdf
+  115  evince denten-CV-2014-03-.pdf
+  116  evince denten-CV-2014-03-21.pdf
+  117  vim 06-talks.md
+  118  make pdf
+  119  evince CV.pdf
+  120  git commit -am "updating header and projects"
+  121  git commit -am "merging the header"
+  122  rm CV.4*
+  123  rm CV.aux
+  124  rm CV.css
+  125  rm CV.dvi
+  126  vim CV.MD
+  127  rm structure.aux
+  128  rm CV.*
+  129  evince denten-CV-2014-03-22.pdf
+  130  evince Imprints/denten-CV-2014-03-22.pdf
+  131  todo launch test server @airport
+  132  dodo do 14
+  133  todo do 16
+  134  todo do 15
+  135  todo do 13
+  136  todo add jekyll the CV
+  137  todo pri 13 B
+  138  todo replace 13 addy jekyll CV @airport
+  139  todo list @airport
+  140  todo add testing server @airport
+  141  todo pri 14 A
+  142  unzip science-surveyor-pdf-package-2014-03-23.zip
+  143  cd science-surveyor-pdf-package
+  144  evince 01-cover-letter.pdf
+  145  evince 02-main-surveyor.pdf
+  146  evince 03-people-surveyor.pdf
+  147  evince 04-timeline-surveyor.pdf
+  148  evince 05-budget-surveyor-columbia.pdf
+  149  evince 06-budget-surveyor-stanford.pdf
+  150  kill 27755
+  151  tar zxvf Popcorn-Time-2.7-Linux-64.tgz
+  152  cd ~/gDrive/Admin
+  153  mv Real\ Estate Real-estate
+  154  mv Tax\ Returns Tax-returns/
+  155  mv Tax-returns Taxes
+  156  cd Academic/Recommendations
+  157  ls Phd
+  158  mkdir Berret-charles
+  159  mv Jake-silver Silver-Jake
+  160  mv Gabriel-Herrera Herrera-Gabriel
+  161  cp recom-generic-template.md ../Berret-charles/
+  162  cp small-siggy.jpg ../Berret-charles
+  163  cd ../Berret-charles
+  164  pando -o berret-recom.pdf recom-generic-template.md
+  165  mv recom-generic-template.md berret-recom.md
+  166  pandoc -o berret-recom.pdf recom-generic-template.md
+  167  cd Herrera-Gabriel
+  168  vim gabriel-herrera-recom.md
+  169  cd Berret-charles
+  170  vim berret-recom.md
+  171  pandoc -o berret-recom.pdf berret-recom.md 
+  172  evince berret-recom.pdf
+  173  cd PythonWorkshop
+  174  cat test.txt
+  175  rm copy\ of\ magic\ grant\ budget\ template.ods
+  176  rm Copy\ of\ *-surveyor.odt
+  177  vim anonymity.md
+  178  todo add send CV to harriman @thursday
+  179  todo add send budget to harriman @thursday
+  180  todo add start on article @thursday
+  181  pidof skype
+  182  kill 1090
+  183  pidof ice
+  184  pidof
+  185  pidof iceweasel
+  186  cd Books
+  187  cd Algorithmic-imagination
+  188  1_chapter
+  189  mv TODO\ \(2\) TODO
+  190  mv dissertation\ title\ brainsorm.snc archive/title-brainstorm.snc
+  191  cat code.md
+  192  cd 1_chapter
+  193  cd 3_chapter
+  194  vim chapter-outline.md
+  195  todo add add dhbox to projects
+  196  sudo aptitude install lpadmin
+  197  lpadmin
+  198  sudo lpadmin
+  199  sudo lpadmin -x
+  200  man lpadmin
+  201  sudo lpadmin -x HP_LaserJet_1022
+  202  sudo lpadmin -x R4501c_192_168_0_53_ProdColor
+  203  sudo lpadmin -x HP_LaserJet_1020 
+  204  sudo hannah-foo2zjs
+  205  sudo apt-get install foo2zjs hannah-foo2zjs
+  206  sudo hp-setup
+  207  sudo hp-setup --qt3
+  208  sudo hp-setup -i 
+  209  lks
+  210  vim .i3/config 
+  211  cd /var/log/
+  212  vim daemon.log
+  213  sudo cat daemon.log
+  214  sudo vim daemon.log
+  215  pidof nm-applet
+  216  kill 4168
+  217  gimp map.jpg
+  218  cd gDrive/Papers/Wikis
+  219  cd dhnotes.wiki
+  220  vim debian.md
+  221  recoll
+  222  spotify:user:den.ten:playlist:685ACw8UfUaOWSHDqsVV3T
+  223  irssi
+  224  sudo aptitude remove hal
+  225  sudo aptitude remove hal-info
+  226  vim /var/log/pm-suspend.log
+  227  cd /sbin/
+  228  cd /usr/sbin
+  229  vim pm-suspend
+  230  sudo service network-manager start
+  231  cd denten.github.io
+  232  cd _pages
+  233  cd CV
+  234  vim 05-publications.md
+  235  cd Imprints
+  236  evince denten-CV-2014-04-08.pdf
+  237  sudo aptitude versions
+  238  sudo aptitude
+  239  aptitude search '~i!~M'
+  240  traceroute
+  241  traceroute www.google.com
+  242  traceroute www.seamless.com
+  243  sudo service network-manager stop
+  244  sudo rm /var/lib/NetworkManager/NetworkManager.state
+  245  sudo service network-manager start 
+  246  vim 02-bio.md
+  247  cat 02-bio.md
+  248  mv 02-bio.md bio-old.md
+  249  vim structure.tex
+  250  vim make-cv.sh
+  251  vim style.tex
+  252  vim template.tex
+  253  vim 01-header.md
+  254  todo do 14
+  255  todo do 03 10
+  256  todo add update syllabi @office
+  257  todo 16 pri a
+  258  todo pri 16 1
+  259  todo pri 16 A
+  260  todo do link xpLab to Digital Storytelling
+  261  todo add link xpLab to Digi Story
+  262  todo pri 17 B
+  263  cat 04
+  264  cat 04-projects.md
+  265  cd ~/gDrive/Admin/Academic/Recommendations 
+  266  cd Phd
+  267  mkdir Kinniburgh-Mary
+  268  cd Greisokh-Eugene
+  269  cp recom-generic-template.md ../Kinniburgh-Mary
+  270  cd ../Kinniburgh-Mary
+  271  ls ../
+  272  ls ../Greisokh-Eugene
+  273  mkdir ../common-resources
+  274  cp ../Greisokh-Eugene/small-siggy.jpg ../common-resources
+  275  mv ../common-resources ../common/
+  276  vim Berret-charles/berret-recom.md
+  277  cp recom-generic-template.md ../common
+  278  ls ../common
+  279  cd Kinniburgh-Mary
+  280  vim recom-generic-template.md
+  281  pandoc -o mck.pdf recom-generic-template.md
+  282  cd ~/gDrive/Code/Web/denten.github.io/_pages/CV
+  283  cat 01-header.md
+  284  cat 05-publications.md
+  285  mv bio-old.md 02-bio.md
+  286  make
+  287  evince Imprints/0
+  288  evince Imprints/denten-CV-2014-04-10.pdf
+  289  vim Makefile
+  290  ls /sbin/init
+  291  vim /sbin/init
+  292  systemd --test
+  293  nmcli
+  294  sudo vim /etc/pm/config.d
+  295  sudo ls /etc/pm/config.d
+  297  vim mapping-time.md
+  299  pico
+  300  cd ls
+  301  mkdir Lede
+  302  touch basicomp.md
+  303  mv basicomp.md foundations.md
+  304  git init
+  305  git add foundations.md
+  306  git commit -m "first pass at the foundations topics"
+  307  git remote add origin git@github.com:ledeprogram/courses.git
+  308  git push -u origin master
+  309  git commit -am "fixed list"
+  310  git commit -am "added a few more topics"
+  311  git commit -am "minor changes"
+  312  cd ~/gDrive/Papers/Projects
+  313  cd Ideaboard
+  314  vim being-nothingness-themovie.md
+  315  gscan2pdf
+  316  cd gDrive/Papers/Talks
+  317  cd
+  318  mv glasgow-protest.md wp-resistance.md
+  319  vim wp-resistance.md
+  320  cd gDrive/Admin/Academic/Recommendations/Phd/Kinniburgh-Mary
+  321  evince mck.pdf
+  322  cd ~/gDrive/Papers/Projects/Workbench/piracylab/Peer-preserve 
+  323  ls Talks
+  324  mv cornell-tech.pptx Talks
+  325  rm keys.md.BASE.9552.md
+  326  rm keys.md.orig
+  327  git commit -am 
+  328  git commit -am "cleaning up the folders"
+  329  cat BBB.md
+  330  mkdir Archive
+  331  mv BBB.md Archive
+  332  mv cfp.pdf Archive
+  333  cat notes.md
+  334  cat NOTES
+  335  mv notes.md Archive
+  336  mv pop-com-book-piracy-main.md.orig Archive
+  337  git mv TODO.md TODO
+  338  ssh add
+  339  mv TODO.md TODO
+  340  cat TODO.md
+  341  git rm TODO.md
+  342  rm TODO.md
+  343  cat IDEAS.md
+  344  git mv IDEAS.md IDEAS
+  345  cd Peer-preserve
+  346  git rm chicago-author-date.csl
+  347  git add IDEAS.md
+  348  git commit -am "cleaning up"
+  349  vim main.md
+  350  nmcli nm sleep false
+  351  ssh denten@54.225.194.108
+  352  sudo nmcli nm sleep false
+  353  sudo aptitude install imwheel 
+  354  imwheel
+  355  imwheel -h
+  356  imwheel -c
+  357  vim /etc/X11/xorg.conf
+  358  sudo vim /etc/X11/xorg.conf
+  359  sudo restart lightdm
+  360  i sudo service lightdm restart
+  361  sudo service lightdm restart
+  362  sudo rm /etc/X11/xorg.conf
+  363  restart
+  364  echo 'pointer = 1 6 3 4 5' | xmodmap -
+  365  vim ~/.Xmodemap
+  366  mv .Xmodemap .Xmodmap
+  367  cp .Xmodmap /etc/X11/Xmodmap
+  368  vim .Xmodmap
+  369  xmodmap ~/.Xmodmap
+  370  sudo rm /etc/X11/Xmodmap
+  371  sudo cp .Xmodmap /etc/X11/Xmodmap
+  372  vim .i3
+  373  vim .i3/config
+  374  cp .Xmodmap .xmodmap
+  375  cat .Xmodemap
+  376  mv .Xmodemap .xmodmap
+  377  cat .xmodmap
+  378  rm .xmodmap
+  379  rm .Xmodmap
+  380  ln -s ~/.dotfiles/.xmodmap .xmodmap 
+  381  xmodmap -pp
+  382  office
+  383  sudo aptitude install ipython-notebook
+  384  nano test.py
+  385  python test.py
+  386  ifconfig -a
+  387  ipconfig -ga
+  388  ipconfig -a
+  389  sudo ifconfig -a
+  390  git commit -am "a more detailed breakdown of weeks for the fundamentals course"
+  391  vim algorithms.md
+  392  git commit -am "fixing formatting"
+  393  git commit -am "minor formatting fixes":
+  394  cd 2011-12
+  395  cd Spring-2012-xpCrit
+  397  mv Spring-2012-xpCrit ../xpCrit
+  398  ls 2011-12
+  399  rm 2011-12
+  400  rm -r 2011-12
+  401  cd 2012-13
+  402  todo add add dhfunding to dhnotes
+  403  todo pri 18 B
+  404  cd 2014-15
+  405  cd Fall-2014-CC
+  406  cd Spring-2015-CC
+  407  mv Spring-2015-Mars/syll-mars-spring2015.md ..
+  408  ls ..
+  409  ls Fall-2014-Code-Poetry
+  410  ls Spring-2015-2015
+  411  ls Spring-2015-CC
+  412  ls Spring-2015-Mars
+  413  rm -r 2014-15
+  414  mkdir Mars
+  415  mv syll-mars-spring2015.md Mars
+  416  cd 2013-14
+  417  cd Spring-2014
+  418  ls Illicit-Knowledge
+  419  mv Illicit-Knowledge ../../
+  420  ls Con-Civ
+  421  mv Con-Civ ../../
+  422  rm -r Spring-2014
+  423  lsls
+  424  ls Fall-2013
+  425  mv Fall-2013/Media-Archeology ../
+  426  cd Fall-2013
+  427  cd Contemporary-Civilization
+  428  mv Contemporary-Civilization ../../
+  429  rm -r Fall-2013
+  430  rm -r 2013-14
+  431  mv Contemporary-Civilization/* Con-Civ/
+  432  ls Contemporary-Civilization
+  433  rm -r Contemporary-Civilization
+  434  mv dhLab:\ Illicit\ Knowledge.odt dhLab-Illicit-Knowledge.odt
+  435  git add Illicit-Knowledge/final.md
+  436  git commit -am "adding the final proposal prompt"
+  437  git commit -am "merge"
+  438  cd Con-Civ
+  439  vim syll-con-civ.md
+  440  git commit -am "updated the con civ syllabus"
+  441  gt add Con-Civ/syll-con-civ.md
+  442  git add Con-Civ/syll-con-civ.md
+  443  git commit -am "adding the syllabus back"
+  444  vim final.md
+  445  git commit -am "minor formatting"
+  446  ls -f
+  447  todo add check the backups
+  448  todo pri 19 A
+  449  ping www.google.com
+  450  sudo pip install
+  451  pip install ipdb
+  452  sudo easy_install requests
+  453  pip
+  454  sudo pip install ipdb
+  455  rm test.py
+  456  cd /usr/local/lib/python2.7/dist-packages/nltk/corpus/reader/
+  457  vim util.pyc
+  458  vim unti.py
+  459  sudo vim util.py
+  460  vim ~/.vimrc
+  461  vim util.py
+  462  sudo apt-get install hal libhal1
+  463  sudo apt-get install libhal1
+  464  sudo apt-get install libhal-storage1
+  465  sudo mkdir /etc/hal/fdi/preprobe
+  466  sudo mkdir /etc/hal/fdi/information
+  467  /usr/sbin/hald --daemon=yes --verbose=yes
+  468  rm -rf ~/.adobe
+  469  sudo -aptitute update
+  470  sudo apititude update
+  471  chromium
+  472  /usr/sbin/hald --daemon=no --verbose=yes
+  473  ps aux | less| grep hal
+  474  hal
+  475  pmi
+  476  pm-suspend
+  477  sudo pm-suspend
+  478  edit test.py
+  479  exit
+  480  cd gDrive/Code
+  481  cd Litclock
+  482  la
+  483  vim .gitignore
+  484  evince malthus.pdf
+  485  rm malthus.pdf
+  486  ipython old-bot.py
+  487  cim log.txt
+  488  vim log.txt
+  489  python old-bot.py
+  490  cat log.txt
+  491  vim cat.txt
+  492  cat tweets.csv
+  493  vim old-bot.py
+  494  vim cron-bot.py
+  496  cd gDrive/Code/Web
+  497  sudo update-flashplugin-nonfree --install
+  498  sudo apt-get install hal
+  499  cd ~/Downloads 
+  500  tar -xvf hal_0.5.14-8.debian.tar.gz
+  501  cd debian
+  502  cat README.Debian
+  503  cat sampletoparse.sql 
+  504  cat sampletoparse.sql | less
+  505  cd Web
+  506  ls denten.github.io
+  507  nano
+  508  man ls
+  509  python
+  510  ssh -X denten@Public IP
+  511  ssh -X denten@54.83.9.201
+  512  ssh denten@54.83.9.201
+  513  mosh denten@54.197.252.125
+  514  mosh
+  515  chmod?
+  516  chmod
+  517  chmod --help
+  518  man chmod
+  519  mkdir test test2
+  520  cd test
+  521  chmod -cR g+s test
+  522  ll test
+  523  resume
+  524  man fg
+  525  sudo aptitude install sun-java6-jre
+  526  cd /etc/apt/
+  527  cat sources.list
+  528  aptitude search "?provides(java-runtime)"
+  529  tar -xvf sci2-N-1.0.0.201312160121NGT-linux.gtk.x86_64.tgz 
+  530  sh sci2
+  531  java
+  532  ls *.jar
+  533  run sci2
+  534  file emulator 
+  535  file emulator sci2
+  536  mv sci2 /bin/
+  537  sudo mv sci2 /bin/
+  538  ls /bin
+  539  ./bin/sci2/sci2
+  540  tar -xvf gephi-0.8.2-beta.tar.gz 
+  541  mv sci2/ /bin
+  542  sudo mv /bin/sci2 sci2/
+  543  ls sci2
+  544  sudo mv sci2 /bin
+  545  ls /bin/sci2
+  546  sci2
+  547  sudo sci2
+  548  cd gDrive/Papers/Wikis/dhnotes.wiki
+  549  cat home.md
+  550  vim sci2.md
+  551  git add sci2.md
+  552  git commit -am "add sci2 note"
+  553  cat debian.md
+  554  rm debian.md
+  555  vim gephi.md
+  556  vim home.md
+  557  git add gephi.md
+  558  git commit -am "add gephi"
+  559  cd gDrive/Papers/Projects
+  560  ls growth-decay-shared-knowledge
+  561  mv dh-complit.md shared-knowledge
+  562  vim shared-knowledge/dh-complit.md
+  563  ls Isi-data
+  564  mv Isi-data isi-data/
+  565  mv Old old/
+  566  mv Simile simile/
+  567  mv Slides slides/
+  568  cd /bin/sci2
+  569  cat comp-lit-2004-14.bib
+  570  cd colord
+  571  cd core
+  572  cat VERSION.txt
+  573  pwed
+  575  mv sci2 /usr/bin/sci2/
+  576  sudo mv sci2 /usr/bin/sci2/
+  577  mv gephi /usr/bin/gephi/
+  578  sudo mv gephi /usr/bin/gephi/
+  579  cd platform
+  580  mv gephi /bin
+  581  sudo mv gephi /bin
+  582  cd /bin
+  583  cd gephi
+  584  cd bin
+  585  cd /usr/bin
+  586  cd sci2
+  587  .sci2
+  588  cd gDrive/Papers/Projects/Workbench/shared-knowledge
+  589  vim comp-lit-2004-14.bib
+  590  vim cl-1004-14.xml
+  591  rm cl-1004-14.xml
+  592  vim Extracted\ paper-citation\ network.net
+  593  cat savedrecs.txt
+  594  rm savedrecs.txt
+  595  rm comp-lit-2004-14.bib
+  596  vim american_anthro2012.isi
+  597  vim comp-lit-2004-14.txt
+  598  ls comp-lit-2004-14-tab.csv
+  599  ls comp-lit-2004-14-tab.csv >> normalize-citations.py
+  600  vim normalize-citations.py
+  601  tar -xvf google-talkplugin_current_amd64.deb q 
+  602  mv ~/gDrive/Papers/Projects/Workbench/shared-knowledge/growth-decay-shared-knowledge/isi-data/dh-complit/google-refine-2.5-r2407.tar.gz . 
+  603  tar -xvf google-refine-2.5-r2407.tar.gz
+  604  cd google-refine-2.5
+  605  ./refine
+  606  rm Extracted\ paper-citation\ network.net
+  607  vim comp-lit-2004-14.html
+  608  vim comp-lit-2004-14-tab.csv
+  609  jjjjjjjjjjj[]
+  610  ./gephi
+  611  mv Extracted\ paper-citation\ network.xml cl-2014-network.graphml
+  612  cat /proc/sys/kernel/threads-max
+  613  gimp 1_complit_1975_85.jpg
+  614  cd /bin/gephi
+  615  ls etc
+  616  ls gephi
+  617  ls platform
+  618  cd gDrive/Papers/Projects/Workbench/shared-knowledge/growth-decay-shared-knowledge/
+  619  cd Graphs
+  620  cd ../dh-complit/
+  621  cd NewFolder
+  622  firefox death.png
+  623  rm -r NewFolder
+  624  rm -rf NewFolder
+  625  sudo rm -rf NewFolder
+  626  firefox death.jpg
+  627  mkdir vis
+  628  mv death.jpg vis
+  629  rm normalize-citations.py
+  630  rm comp-lit-2004-14-tab.csv
+  631  rm comp-lit-2004-14.html
+  632  rm comp-lit-2004-14.txt
+  633  firefox cl-2014.png
+  634  rm cl-2014.png
+  636  sfire cl14.jpg
+  637  mv Graphs graphs/
+  638  firefox 2_complit_1998_2011.jpg
+  639  ls 
+  640  gimpo
+  641  git remote -v
+  642  git add shared-knowledge/dh-complit.md
+  643  git commit -am "first commit for the dh-complit paper"
+  644  ls isi-data
+  645  cd shared-knowledge
+  646  cd growth-decay-shared-knowledge
+  647  cd isi-data
+  648  cd graphs
+  649  mv dh-complit ../
+  650  mv dh-complit.md dh-complit
+  651  mkdir data
+  652  cl cl-2014.gephi data
+  653  mv cl-2014* data
+  654  mv Extracted\ paper-citation\ network.net data/cl14-extract.net
+  655  ./sci2
+  656  rm cl14-extract.net
+  657  mv cl74-extract.graphml data
+  658  firefox cl14.jpg
+  659  firefox virgin-block.jpg
+  660  sudo ./gephi
+  661  vim dh-complit.md
+  662  fg
+  663  ks
+  664  cd dh-complit
+  665  cd vis
+  666  firefox 75-connect.jpg
+  667  firefox 14-connect.jpg
+  668  gimp
+  669  todo add email haun saussy
+  671  cat test2.py
+  672  vim test.py
+  673  cp test.py test-bug.py
+  674  vim test-bug.py
+  675  cat test-bug.py
+  678  df -hj
+  679  sudo pm-hibernate
+  680  aran
+  681  logout
+  682  libre
+  683  ssh denten@54.197.251.125
+  684  mv WorldLit worldlit/
+  685  mv columbia_digital_storytelling digi-story/
+  686  ls seeders_viz
+  687  cd seeders_viz
+  688  ls forum_detail.csv
+  689  cat forum_detail.csv | less
+  690  cat forum_detail.csv | wc -l
+  691  ls __MACOSX
+  692  mv Archive archive/
+  693  libreoffice forum\ detail2.xlsx
+  694  mf forum\ detail2.xlsx forum-detail.xlsx
+  695  cat 0-699.csv | less
+  696  cat sociology_topics
+  697  cat sociology_topics.csv
+  698  mf Funding funding/
+  699  ls funding
+  700  cd lib-gen-2
+  701  mv Peer-preserve peer-preserve
+  702  mv rutracker\ network rutrack-net/
+  703  cd rutrack-net
+  704  cd Pilot\ Run
+  705  fire gephi_default_noedgeweight.pdf
+  706  evince gephi_default_noedgeweight.pdf
+  707  evince gephi_forceatlas.pdf
+  708  ls rutrack-net
+  709  rm -rf rutrack-net
+  710  ls topics_viz
+  711  cd topics_viz
+  712  rm -rf __MACOSX
+  713  ls data
+  714  cd data
+  715  cat fora.json | less
+  716  mv LibGen\ Ecosystem.odt libgen-ecosystem.odt
+  717  ls archive
+  718  mv Talks talks/
+  719  mkdir d3
+  720  mv seeders_viz d3
+  721  mv topics_viz d3
+  722  ls scrapy
+  723  rm log.log
+  724  find / -type f -name "*.xlsx" >> log.log
+  725  cat log.log
+  726  ls datasets
+  727  ll datasets
+  728  history | grep "scp"
+  729  ls giga-shutdown-response
+  730  cd d3
+  731  ls | less
+  732  1ls
+  733  find / -type f -name "*.xlsx"
+  734  find . -type f -name "*.xlsx"
+  735  cd -
+  736  cd ....
+  737  vim foundations.md
+  738  vim Data_databases.md
+  739  cd Papers/Projects
+  740  cd piracylab
+  741  cd datasets
+  742  cat forum-detail.xlsx
+  744  sudo gnome-control-center
+  745  sudo aptitude install gnome-control-center
+  746  xfce4-panel
+  747  free
+  748  sudo aptitude install hardinfo
+  749  hardinfo
+  750  gem install rubygems-update
+  751  sudo gem install rubygems-update
+  752  update_rubygems
+  753  sudo update_rubygems
+  754  sudo gem update --system
+  755  sudo gem update
+  756  todo
+  757  todo add switch to seafile
+  758  todo pri 20 C
+  759  todo pri 20 A
+  760  todo pri 21 C
+  762  i3
+  763  i3 --help
+  764  i3 restart
+  765  mosh denten@54.227.250.66
+  766  date
+  767  sudo aptitude install ntpdate
+  768  sudo aptitude install ntp
+  769  ntpd
+  770  ntp
+  771  ntpq -p
+  772  man fsck
+  773  fsck
+  774  sudo fsck
+  775  ping https://github.com/dhcolumbia/illicit-knowledge.git
+  776  ping https://github.com/dhcolumbia/illicit-knowledge
+  777  ping https://github.com
+  778  ping github.com/dhcolumbia/illicit-knowledge.git
+  779  ping github.com/dhcolumbia/illicit-knowledge
+  780  ping hithub.com
+  781  ping github.com
+  782  ping github.com/dhcolumbia
+  783  rm -r illicit-knowledge
+  784  git clone http://github.com/dhcolumbia/illicit-knowledge.git
+  785  ping github.com:1080
+  786  cd test1
+  787  mkdir test1
+  788  mkdir test2
+  789  mv test1 test2
+  790  rm -rf
+  791  mkdir myproject
+  792  ls myproject
+  793  mkdir test
+  794  git add test
+  795  ll
+  796  git clone https://github.com/dhcolumbia/illicit-knowledge.git
+  797  cd test2
+  798  cp test2/ myproject
+  799  cp -r test2 myproject
+  800  mv myproject illicit-knowledge
+  801  git add myproject/*
+  802  git commit -m "new file"
+  803  git clone git@github.com:dhcolumbia/illicit-knowledge.git
+  804  rm -rf illicit-knowledge
+  805  git commit -am "cleaning up directories"
+  806  git rm fulbright_0.0_05.16_14.md
+  807  cd Downloads
+  808  tar -zxf linux-bootable-usb-12.tar.gz
+  809  tar -zxf linux-bootable-usb-3104738.tar.gz
+  810  tar -zxvf linux-bootable-usb-3104738.tar.gz
+  811  thunar
+  812  cd /etc/apt/sources.list.d
+  813  vim sources.list
+  814  cd /dev/sdb1
+  815  cd /dev
+  816  cd /media/usb0
+  817  ls Archive
+  818  rm -rf Archive
+  819  sudo rm -rf Archive
+  820  rm publicbooks-magic-pitch*
+  821  sudo rm publicbooks-magic-pitch*
+  822  ls Drivers
+  823  sudo rm -rf Drivers
+  824  cd ~/Downloads
+  825  cd bootable
+  826  sudo chmod 755 CreateBootable.sh
+  827  ./CreateBootable.sh
+  829  sudo aptitude install memtest86
+  830  memtest86
+  831  cd /proc
+  832  cat meminfo
+  833  cat stat
+  834  cat
+  835  cat buddyinfo
+  836  cat interrupts
+  837  cat /proc/meminfo
+  838  git add .xmodmap
+  839  cat .gitignore_global
+  840  git add .vim/spell/en.utf-8.add.spl
+  841  git rm .vim/.netrwhist
+  842  git commit -am "stashing"
+  843  git commit -am "merged the spelling files"
+  844  ls .vim/bundle/online-thesaurus
+  845  git add .vim/bundle/online-thesaurus/*
+  846  git submodule udpate
+  847  git submodule update
+  848  cd .vim/bundle/online-thesaurus
+  849  cd doc/tags
+  850  cat tags
+  851  cat online-thesaurus.txt
+  852  cd doc
+  853  git add doc/tags
+  854  git commit -am "fixing submodules"
+  855  git commit -am "update"
+  857  sudo apt-get safe-upgrade
+  858  pushd ../../Books/Workbench
+  859  mkdir Literature-and-DH
+  860  pushd Literature-and-DH
+  861  vim rough-outline.md
+  862  popod
+  863  popd
+  864  echo | cat NOTES
+  865  pandoc -H options.sty -o circle.pdf circle.md
+  866  vim circle.md
+  867  pandoc -o circle.pdf circle.md
+  868  evince circle.pdf
+  869  pandoc -o circle.doc circle.md
+  870  libreoffice circle.doc
+  871  rm circle.doc
+  872  pandoc -o circle.docx circle.md
+  873  libreoffice circle.docx
+  874  ssh -X denten@54.227.250.66
+  875  cd .dotfiles
+  876  cat .vim/spell/en.utf-8.add
+  877  cat .vim/spell/en.utf-8.add.spl
+  878  git statu
+  879  vim .gitignore_global
+  880  touch test.md
+  881  git add -am test.md "tst"
+  882  git commit -am test.md "creating test"
+  883  git commit -am "test"
+  884  git add test.md
+  885  git rm .vim/spell/en.utf-8.add.spl
+  886  git commit -am "delete .spl file"
+  887  git rm test.md
+  888  git commit -am "removing test"
+  889  cd gDrive/Teaching
+  890  cd Illicit-Knowledge
+  892  cd Projects
+  894  mosh denten@54.197.251.125
+  895  cd Code
+  896  libreoffice
+  900  cd Lede
+  902  git commit -am "stashing changes"
+  903  git mergetool
+  904  rm -rf Lede
+  905  git clone git@github.com:ledeprogram/courses.git
+  906  mv courses lede/
+  908  mv Data_databases.md databases.md
+  909  mkdir foundations
+  910  mkdir algorithms
+  911  mkdir databases
+  912  mkdir admin
+  913  mv log admin
+  914  mv ref admin
+  915  mv databases.md databases
+  916  mv algorithms.md algorithms
+  917  mv foundations.md foundations
+  918  git commit -am "cleaning up the repo"
+  919  git commit -am "cleanup"
+  920  mkdir platforms
+  921  cd platforms
+  922  mv foundations.md README.md
+  923  git commit -am "cleanig up"
+  924  git add -A
+  925  git commit "cleaning up"
+  926  git commit -m "cleaning up"
+  927  git commit -am "updating our syllabus"
+  928  git rm -r admin/
+  929  git commit -am "this is a public folder, i am removing internal notes"
+  930  cd algorithms
+  931  cd ../foundations
+  932  git commit -am "adding room info"
+  934  git add room-sched.pdf
+  935  git add -f room-sched.pdf
+  936  git commit -am "pushing the room schedule"
+  937  git commit -am "room numbers"
+  938  git commit -m "minor changes"
+  939  git commit -am "minor"
+  940  rm room-sched.pdf
+  942  git commit -am "fixing room numbers"
+  944  spotify
+  945  cd tmp
+  946  cd illicit-knowledge
+  948  git log -- sample-project/denten-project.md
+  949  git log sample-project/denten-project.md
+  950  git log -- all -- sample-project/denten-project.md
+  951  _gitk
+  952  sudo apt-get install gitk 
+  953  gitk --all
+  954  git reset --hard main/168c211ed71855530925ed6773a148743a607028
+  955  git reset --hard 168c211ed71855530925ed6773a148743a607028
+  956  git reset --hard 6b8c499b3697e359383e63a5f14488e0742e64f9
+  957  git push -f
+  958  git status
+  959  opipujfe
+  960  djlksahflkjdshf
+  961  jlkjs
+  962  fontconfig
+  964  fc
+  965  sudo apt-get install fontconfig-config
+  966  dpkg-reconfigure fontconfig
+  967  sudo ln -s /etc/fonts/conf.avail/10-autohint.conf /etc/fonts/conf.d/
+  968  sudo ln -s /etc/fonts/conf.avail/10-sub-pixel-rgb.conf /etc/fonts/conf.d/
+  969  sudo apt-get install lib-cairo
+  970  sudo apt-get install libghc-cairo-dev
+  971  vim /etc/apt/sources.list
+  973  sudo aptitude -s safe-upgrade
+  974  sudo aptitude safe-upgrade
+  975  sudo aptitude -s dist-upgrade
+  976  sudo aptitude dist-upgrade
+  978  sudo apt-get autoclean
+  979  sudo aptitude forget-new
+  980  sudo aptitude update
+  981  sudo aptitude -s full-upgrade
+  982  sudo aptitude autoclean
+  983  sudo apt-get
+  984  sudo apt-get clean
+  985  sudo apt-get check
+  986  ;s
+  987  lw
+  990  df -h
+  991  vim .i3status.conf
+  992  \nk
+  994  sudo aptitude install openconnect 
+  995  openconnect
+  996  sudo aptitude install network-manager-openconnect
+ 1004  nm-online
+ 1005  nm-openconnect
+ 1007  nm
+ 1008  nm-applet
+ 1009  sudo nm-applet
+ 1010  sudo apt-get install openexr-vpn
+ 1011  sudo apt-get install open-vpn
+ 1012  sudo apt-get install openvpn
+ 1014  xfce4-settings-manager
+ 1015  xfce4-appfinder
+ 1016  sudo apt-get install wicd-cli wicd
+ 1021  wicd-cli --wireless
+ 1022  wicd
+ 1023  wicd-cli
+ 1024  sudo apt-get install openvpn 
+ 1025  openvpn
+ 1026  test ! -c /dev/net/tun && echo openvpn requires tun support || echo tun is available
+ 1029  todo add setup openvpn @linux
+ 1030  todo list
+ 1031  todo do 20
+ 1032  which todo
+ 1038  cd Notes
+ 1044  cd Admin
+ 1046  ls Todo
+ 1047  todo add phd/thesis supervise to CV
+ 1048  sudo vim /etc/apt/sources.list
+ 1049  gpg --keyserver keys.gnupg.net --recv 886DDD89
+ 1050  gpg --export A3C4F0F979CAA22CDBA8F512EE8CBC9E886DDD89 | sudo apt-key add -
+ 1051  sudo apt-get update
+ 1052  sudo apt-get install deb.torproject.org-keyring
+ 1053  tor
+ 1054  sudo tor
+ 1055  skype
+ 1056  vim
+ 1057  ed
+ 1058  man ed
+ 1059  info Ed
+ 1060  info Vim
+ 1061  man vim
+ 1064  clear
+ 1068  cd Papers/Talks
+ 1070  cd..
+ 1072  cd Reviews
+ 1074  cd Workbench
+ 1078  cd gDrive/Papers
+ 1081  cd Teaching
+ 1083  cd Courses
+ 1085  cd lede
+ 1087  git pull
+ 1091  git commit -am "updating the first week"
+ 1094  ssh-add
+ 1097  git commit "updates"
+ 1099  git commit -am "updates"
+ 1105  git commit -am "updated prereqs"
+ 1108  cd foundations
+ 1113  vim README.md
+ 1114  git commit -am "update reqs"
+ 1115  git push
+ 1117  ipython
+ 1119  arandr
+ 1129  cd test.py
+ 1130  cd music
+ 1133  cd 
+ 1147  cd /
+ 1150  cd home
+ 1152  cd denten
+ 1154  man pwd
+ 1156  mkdir temp
+ 1158  cd ~
+ 1159  pwd
+ 1161  cd temp
+ 1165  cp test.py test2.py
+ 1167  mv test.py test3.py
+ 1168  l
+ 1170  mkdir secret
+ 1172  mv test3.py secret
+ 1174  ls secret
+ 1175  rm test2.py
+ 1177  touch.py
+ 1182  ls -l
+ 1184  man rm
+ 1185  rm -rf secret
+ 1187  echo "test" > test.py
+ 1189  touch test.py
+ 1190  cat test.py
+ 1192  history
+ 1193  history | less
+ 1194  man less
+ 1195  man more
+ 1196  history | grep "touch.py"
+ 1197  cd ..
+ 1199  cd gDrive
+ 1201  cd Papers
+ 1203  cd Talks
+ 1205  cd rage-with-machine
+ 1207  man cat
+ 1208  evince notes.pdf
+ 1210  cat notes.pdf
+ 1211  cat notes.pdf | less
+ 1212  ls
+ 1213  cat talk-notes.md
+ 1214  q
+ 1215  cat talk-notes.md | grep "technology"
